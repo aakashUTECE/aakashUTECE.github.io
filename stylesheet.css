@@ -1,0 +1,50 @@
+/* Style for body */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Styling a class */
+.title {
+    color: #4CAF50;
+    text-align: center;
+}
+
+.subtitle {
+    color: #555;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+/* Styling an ID */
+#header-section {
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+/* Styling another ID */
+#content-section {
+    margin: 20px;
+}
+
+/* Style for links and hover */
+.link {
+    color: #008CBA;
+    text-decoration: none;
+}
+
+.link:hover {
+    color: #005f6a;
+    text-decoration: underline;
+}
+
+/* Styling the image */
+.photo {
+    display: block;
+    margin: 20px auto;
+    width: 80%;
+    border: 2px solid #ccc;
+    padding: 10px;
+    box-shadow: 5px 5px 10px #888;
+}
